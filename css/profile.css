@@ -1,12 +1,30 @@
 html {
-  background-color: #FF8C00;
+  background-color: white;
 }
 
+.navbar-no-margin {
+	margin-bottom: 0px;
+}
+
+.navbar-brand {
+	font-size: 24px;
+}
+
+.nav-link {
+	font-size: 24px;
+	background-color: #71706D;
+	webkit-border-radius: 5px;
+	moz-border-radius: 5px;
+	border-radius: 5px;
+	display: block;
+}
 
 .navbar-dark {
-	background: #FF8C00;
+	background: #FFB833;
 	color: #FFFFFF;
 }
+
+
 .profile-picture { 
 	max-width: 50%;
 	display:block;
@@ -23,12 +41,12 @@ html {
 }
 
 .card-title {
-  color: #FF8C00;
+  color: #FFB833;
   font-weight: 300;
 }
 
 .class-title {
-	color: #FF8C00;
+	color: #FFB833;
 }
 
 .description {
@@ -37,6 +55,21 @@ html {
 }
 
 .btn-lg {
-	background-color: #FF8C00;
-	border-color:#FF8C00;
+	background-color: #FFB833;
+	border-color:#FFB833;
 }
+
+.jumbotron {background-image: url("http://eskipaper.com/images/desktop-screensavers-2.jpg");
+  background-size: cover;
+  color: white;
+}
+
+.jumbotron h1, .jumbotron h2 {
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.lead {
+	border-color: black;
+}
+
+
