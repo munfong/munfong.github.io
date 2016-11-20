@@ -1,0 +1,42 @@
+html {
+  background-color: #FF8C00;
+}
+
+
+.navbar-dark {
+	background: #FF8C00;
+	color: #FFFFFF;
+}
+.profile-picture { 
+	max-width: 50%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.right-hand-card-block {
+    padding: 1.25rem;
+}
+
+.card {
+  border-color: #808080;
+}
+
+.card-title {
+  color: #FF8C00;
+  font-weight: 300;
+}
+
+.class-title {
+	color: #FF8C00;
+}
+
+.description {
+	background-image: url("http://codeatuni.netlify.com/pattern.png");
+	background-repeat: repeat-x
+}
+
+.btn-lg {
+	background-color: #FF8C00;
+	border-color:#FF8C00;
+}
